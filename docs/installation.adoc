@@ -42,7 +42,7 @@ must be covered by the {nix-allowed-users}[`allowed-users`] Nix
 option. On NixOS you can control this option using the
 {nixos-allowed-users}[`nix.allowedUsers`] system option.
 
-2. Add the appropriate Home Manager channel. If you are following
+2. Add the apprnixos-rebuild switchopriate Home Manager channel. If you are following
 Nixpkgs master or an unstable channel you can run
 +
 [source,console]
